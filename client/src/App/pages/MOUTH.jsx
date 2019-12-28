@@ -8,7 +8,7 @@ class List extends Component {
     return (
       <div className="App">
         <h1> MOUTH </h1>
-        <Image src='/MOUTH.jpg' roundedCircle />
+        <Image src='/MOUTH.JPG' roundedCircle />
       </div>
     );
   }
