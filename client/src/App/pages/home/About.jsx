@@ -9,7 +9,7 @@ class About extends Component {
             <div className = 'about'>
                 <Row className="justify-content-md-center">
                     <Col className='div-image' md='auto' lg="2">
-                        <Image src='Nicole.png' roundedCircle />
+                        <Image src='public/Nicole.png' roundedCircle />
                     </Col>
                     <Col lg="2">
                         <p> My name is Nicole, and I'm pretty cool. </p>
