@@ -7,6 +7,7 @@ import Appointment from './pages/appointment/Appointment';
 import FAQ from './pages/FAQ';
 import Header from './Header';
 import Contact from './pages/Contact';
+import Doggo from './pages/Doggo';
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
           <Route path='/appointments' component={Appointment}/>
           <Route path='/faq' component={FAQ}/>
           <Route path='/contact' component={Contact}/>
+          <Route path='/doggo' component={Doggo}/>
         </Switch>
       </div>
     )

@@ -16,6 +16,7 @@ class Header extends Component {
             <Nav.Link href="/contact">Contact</Nav.Link>
             <NavDropdown title="Services" id="basic-nav-dropdown">
               <NavDropdown.Item href="/appointments">Make/Cancel an appointment</NavDropdown.Item>
+              <NavDropdown.Item href="/doggo">Love love love love love? LOVE LOVE LOVE LOVE LOVE!</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/faq">FAQ</NavDropdown.Item>
             </NavDropdown>
